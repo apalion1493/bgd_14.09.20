@@ -1,11 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c8a122c-d5a0-4d37-86d5-8cae3cb3f388" name="Default Changelist" comment="" />
+    <list default="true" id="9c8a122c-d5a0-4d37-86d5-8cae3cb3f388" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buzludzha.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devetashka.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buzludzha/Buzludzha-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buzludzha/Buzludzha-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buzludzha/Buzludzha-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buzludzha/Buzludzha-img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buzludzha/Buzludzha-img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buzludzha/Buzludzha-img-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buzludzha/Buzludzha-map-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buzludzha/car-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buzludzha/train-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/article-section-theSameType-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/bat-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/clock-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/devetashka-img-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/devetashka/video-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/lightbulb-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-img-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-map-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-map-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes-map-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rila-lakes/rila-lakes__headerBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rila-lakes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/newStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/newStyle1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hJMfSvvwlgthsloxdM1vThzaCo" />
   <component name="ProjectViewState">
@@ -36,17 +105,44 @@
       <workItem from="1599724845985" duration="15925000" />
       <workItem from="1599810464599" duration="7546000" />
       <workItem from="1599904175864" duration="46000" />
-      <workItem from="1600070188594" duration="10150000" />
+      <workItem from="1600070188594" duration="19077000" />
+      <workItem from="1600104206106" duration="119000" />
+      <workItem from="1600427254149" duration="831000" />
+      <workItem from="1600432540690" duration="5514000" />
+      <workItem from="1600528172036" duration="67000" />
+      <workItem from="1600666228828" duration="22088000" />
+      <workItem from="1600702976572" duration="11000" />
+      <workItem from="1600755044516" duration="18618000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1599904220266">
+    <state x="499" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600778657540">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834/0.-1050.1920.1050@0.30.1536.834" timestamp="1599904220266" />
+    <state x="499" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1536.834/0.-1050.1920.1050@0.30.1536.834" timestamp="1600778657540" />
+    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1600702986707">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834/0.-1050.1920.1050@0.30.1536.834" timestamp="1600702986707" />
+    <state x="425" y="204" key="run.anything.popup" timestamp="1600673359233">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="425" y="204" key="run.anything.popup/0.30.1536.834/0.-1050.1920.1050@0.30.1536.834" timestamp="1600673359233" />
   </component>
 </project>
