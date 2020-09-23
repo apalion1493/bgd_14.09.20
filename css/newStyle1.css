@@ -907,6 +907,7 @@
     line-height: 34px;
     text-align: center;
     color: #333333;
+    margin-bottom: 25px;
 }
 
 .article-section-theSameType__frame {
@@ -1108,7 +1109,7 @@
 .article-section-theSameType__list {
     padding-left: 0;
     list-style-type: none;
-    margin-top: 40px;
+    margin-top: 25px;
 }
 
 .article-section-theSameType__item {
@@ -1207,6 +1208,22 @@
     color: #333333;
     margin-bottom: 14px;
     margin-top: 33px;
+}
+
+.bus-icon {
+    background: url("../img/belogradchik-rocks/bus-icon.svg") no-repeat center;
+    background-size: 100% auto;
+    width: 33px;
+    height: 33px;
+    display: block;
+}
+
+.article-section-theSameType__h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #333333;
 }
 
 @media (max-width: 1199.98px) {
