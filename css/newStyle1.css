@@ -1148,6 +1148,10 @@
     display: block;
 }
 
+.article-section-theSameType__item-content {
+    width: 100%;
+}
+
 .article-section-theSameType__item-content-title {
     font-weight: bold;
 }
